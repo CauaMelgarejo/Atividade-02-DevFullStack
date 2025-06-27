@@ -1,0 +1,4 @@
+🛠 Requisitos
+Node.js instalado na máquina
+Um editor de código como o Visual Studio Code
+Biblioteca prompt-sync instalada (para entrada de dados no terminal)
